@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal-github:yashsharma999/node-basics.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
